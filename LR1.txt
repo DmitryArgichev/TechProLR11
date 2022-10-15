@@ -1,8 +1,7 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 Morning DIMA NADYA
 =======
 Morning Ilya,Nadya
->>>>>>> 1ae49d7841bfb56003f3a0376d0f1019c6f69753
 =======
->>>>>>> parent of 1ae49d7 (2 commit DIMA)
+Morning DIMA ILYUSHA
+
